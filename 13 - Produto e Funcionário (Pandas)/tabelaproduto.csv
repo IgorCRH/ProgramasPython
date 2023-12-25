@@ -1,0 +1,21 @@
+ID Produto;NomeProduto;Preco;Quantidade em Estoque
+101;Smartphone Pro Max;799.99;100
+102;Laptop Avançado;1499.99;50
+103;Fone de Ouvido Premium;129.99;200
+104;Tablet Elegante;599.99;80
+105;Smartwatch Ultimate;349.99;120
+106;Câmera Digital HD;449.99;60
+107;Teclado Mecânico Gamer;89.99;150
+108;Monitor UltraWide;799.99;40
+109;Impressora a Laser;299.99;70
+110;Máquina de Café Automática;129.99;100
+111;Mochila Executiva;69.99;200
+112;Mouse Sem Fio Ergonômico;49.99;250
+113;Caixa de Som Bluetooth;179.99;90
+114;SSD de Alta Performance;249.99;80
+115;Luminária LED Inteligente;59.99;120
+116;Carregador Rápido Wireless;39.99;150
+117;Drone Profissional;899.99;30
+118;Kit Ferramentas Manuais;79.99;100
+119;Estojo de Maquiagem Completo;129.99;70
+120;Mala de Viagem Resistente;199.99;60
